@@ -6,5 +6,5 @@ CP = 53.5
 print("--------YOUR SCORE--------")
 print("Foundation English : ", FS)
 print("General Business :", GB)
-print("Introduction to Computer Systems", IS)
-print("Computer Programming", CP)
+print("Introduction to Computer Systems :", IS)
+print("Computer Programming :", CP)
